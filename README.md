@@ -15,7 +15,7 @@ As a beginner in machine learning, this project has been a great learning experi
 
         Intershala Machine Learning Course
         Code With Harry YouTube Channel
-        ChatGPT for guidance and clarification on various ML concepts and practices.
+        ChatGPT for guidance, learning and clarification on various ML concepts and practices.
         
 I'm continuously learning and improving my skills in machine learning and data science.
 

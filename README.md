@@ -19,4 +19,3 @@ As a beginner in machine learning, this project has been a great learning experi
         
 I'm continuously learning and improving my skills in machine learning and data science.
 
-Feel free to customize this README file further based on your preferences and additional details you'd like to include!
